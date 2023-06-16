@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zDlErhiP6UwYhOfDltOXsclmCfdc4b4d6imSDFlonBE=",
+  "Source": "Kidney",
+  "BasePath": "_content/Kidney",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Kidney\\wwwroot",
+      "Source": "Kidney",
+      "ContentRoot": "G:\\Projects\\Kidney\\wwwroot\\",
+      "BasePath": "_content/Kidney",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

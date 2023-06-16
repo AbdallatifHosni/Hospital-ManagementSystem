@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "JarKgcTUagR9YuRbI+4ZKLoNtyyLcbKwIW/XGI+mdAw=",
+  "Source": "Kidney",
+  "BasePath": "_content/Kidney",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Kidney\\wwwroot",
+      "Source": "Kidney",
+      "ContentRoot": "G:\\Projects\\Kidney\\wwwroot\\",
+      "BasePath": "_content/Kidney",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
